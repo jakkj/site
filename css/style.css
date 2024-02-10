@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1400px;
+}
+.promo{
+    background: url("/media/bg.png") center / cover no-repeat ;
+    width: 100%;
+    height: 500px;
+}
